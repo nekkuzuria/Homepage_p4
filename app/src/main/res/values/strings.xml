@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homepage_p4</string>
+    <string name="hi_clarencc">Hi Clarencce,</string>
+    <string name="some_id">5,600.00</string>
+    <string name="pay_money_title">Pay money</string>
+    <string name="pay_money_content">To wallet, bank or mobile number</string>
+    <string name="request_money_title">Request money</string>
+    <string name="request_money_content">Request money from Cowry Loans</string>
+    <string name="pay_bill_title">Pay bill</string>
+    <string name="pay_bill_content">Zero transactions fees when you pay</string>
+    <string name="buy_airtime_title">Buy airtime</string>
+    <string name="buy_airtime_content">Top-up or Send airtime across Countries</string>
+</resources>
